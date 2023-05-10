@@ -20,7 +20,7 @@ Comilla
 Figure for Comilla also available as interactive HTML :download:`here <./html/district_climatology_01_001.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_01_001.svg
+    :file: ./html/district_climatology_01_001.svg
 
 
 Feni
@@ -29,7 +29,7 @@ Feni
 Figure for Feni also available as interactive HTML :download:`here <./html/district_climatology_01_002.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_01_002.svg
+    :file: ./html/district_climatology_01_002.svg
 
 
 Brahmanbaria
@@ -38,7 +38,7 @@ Brahmanbaria
 Figure for Brahmanbaria also available as interactive HTML :download:`here <./html/district_climatology_01_003.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_01_003.svg
+    :file: ./html/district_climatology_01_003.svg
 
 
 Rangamati
@@ -47,7 +47,7 @@ Rangamati
 Figure for Rangamati also available as interactive HTML :download:`here <./html/district_climatology_01_004.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_01_004.svg
+    :file: ./html/district_climatology_01_004.svg
 
 
 Noakhali
@@ -56,7 +56,7 @@ Noakhali
 Figure for Noakhali also available as interactive HTML :download:`here <./html/district_climatology_01_005.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_01_005.svg
+    :file: ./html/district_climatology_01_005.svg
 
 
 Chandpur
@@ -65,7 +65,7 @@ Chandpur
 Figure for Chandpur also available as interactive HTML :download:`here <./html/district_climatology_01_006.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_01_006.svg
+    :file: ./html/district_climatology_01_006.svg
 
 
 Lakshmipur
@@ -74,7 +74,7 @@ Lakshmipur
 Figure for Lakshmipur also available as interactive HTML :download:`here <./html/district_climatology_01_007.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_01_007.svg
+    :file: ./html/district_climatology_01_007.svg
 
 
 Chattogram
@@ -83,7 +83,7 @@ Chattogram
 Figure for Chattogram also available as interactive HTML :download:`here <./html/district_climatology_01_008.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_01_008.svg
+    :file: ./html/district_climatology_01_008.svg
 
 
 Coxsbazar
@@ -92,7 +92,7 @@ Coxsbazar
 Figure for Coxsbazar also available as interactive HTML :download:`here <./html/district_climatology_01_009.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_01_009.svg
+    :file: ./html/district_climatology_01_009.svg
 
 
 Khagrachhari
@@ -101,7 +101,7 @@ Khagrachhari
 Figure for Khagrachhari also available as interactive HTML :download:`here <./html/district_climatology_01_010.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_01_010.svg
+    :file: ./html/district_climatology_01_010.svg
 
 
 Bandarban
@@ -110,7 +110,7 @@ Bandarban
 Figure for Bandarban also available as interactive HTML :download:`here <./html/district_climatology_01_011.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_01_011.svg
+    :file: ./html/district_climatology_01_011.svg
 
 
 Rajshahi
@@ -123,7 +123,7 @@ Sirajganj
 Figure for Sirajganj also available as interactive HTML :download:`here <./html/district_climatology_02_012.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_02_012.svg
+    :file: ./html/district_climatology_02_012.svg
 
 
 Pabna
@@ -132,7 +132,7 @@ Pabna
 Figure for Pabna also available as interactive HTML :download:`here <./html/district_climatology_02_013.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_02_013.svg
+    :file: ./html/district_climatology_02_013.svg
 
 
 Bogura
@@ -141,7 +141,7 @@ Bogura
 Figure for Bogura also available as interactive HTML :download:`here <./html/district_climatology_02_014.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_02_014.svg
+    :file: ./html/district_climatology_02_014.svg
 
 
 Rajshahi
@@ -150,7 +150,7 @@ Rajshahi
 Figure for Rajshahi also available as interactive HTML :download:`here <./html/district_climatology_02_015.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_02_015.svg
+    :file: ./html/district_climatology_02_015.svg
 
 
 Natore
@@ -159,7 +159,7 @@ Natore
 Figure for Natore also available as interactive HTML :download:`here <./html/district_climatology_02_016.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_02_016.svg
+    :file: ./html/district_climatology_02_016.svg
 
 
 Joypurhat
@@ -168,7 +168,7 @@ Joypurhat
 Figure for Joypurhat also available as interactive HTML :download:`here <./html/district_climatology_02_017.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_02_017.svg
+    :file: ./html/district_climatology_02_017.svg
 
 
 Chapainawabganj
@@ -177,7 +177,7 @@ Chapainawabganj
 Figure for Chapainawabganj also available as interactive HTML :download:`here <./html/district_climatology_02_018.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_02_018.svg
+    :file: ./html/district_climatology_02_018.svg
 
 
 Naogaon
@@ -186,7 +186,7 @@ Naogaon
 Figure for Naogaon also available as interactive HTML :download:`here <./html/district_climatology_02_019.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_02_019.svg
+    :file: ./html/district_climatology_02_019.svg
 
 
 Khulna
@@ -199,7 +199,7 @@ Jashore
 Figure for Jashore also available as interactive HTML :download:`here <./html/district_climatology_03_020.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_03_020.svg
+    :file: ./html/district_climatology_03_020.svg
 
 
 Satkhira
@@ -208,7 +208,7 @@ Satkhira
 Figure for Satkhira also available as interactive HTML :download:`here <./html/district_climatology_03_021.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_03_021.svg
+    :file: ./html/district_climatology_03_021.svg
 
 
 Meherpur
@@ -217,7 +217,7 @@ Meherpur
 Figure for Meherpur also available as interactive HTML :download:`here <./html/district_climatology_03_022.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_03_022.svg
+    :file: ./html/district_climatology_03_022.svg
 
 
 Narail
@@ -226,7 +226,7 @@ Narail
 Figure for Narail also available as interactive HTML :download:`here <./html/district_climatology_03_023.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_03_023.svg
+    :file: ./html/district_climatology_03_023.svg
 
 
 Chuadanga
@@ -235,7 +235,7 @@ Chuadanga
 Figure for Chuadanga also available as interactive HTML :download:`here <./html/district_climatology_03_024.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_03_024.svg
+    :file: ./html/district_climatology_03_024.svg
 
 
 Kushtia
@@ -244,7 +244,7 @@ Kushtia
 Figure for Kushtia also available as interactive HTML :download:`here <./html/district_climatology_03_025.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_03_025.svg
+    :file: ./html/district_climatology_03_025.svg
 
 
 Magura
@@ -253,7 +253,7 @@ Magura
 Figure for Magura also available as interactive HTML :download:`here <./html/district_climatology_03_026.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_03_026.svg
+    :file: ./html/district_climatology_03_026.svg
 
 
 Khulna
@@ -262,7 +262,7 @@ Khulna
 Figure for Khulna also available as interactive HTML :download:`here <./html/district_climatology_03_027.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_03_027.svg
+    :file: ./html/district_climatology_03_027.svg
 
 
 Bagerhat
@@ -271,7 +271,7 @@ Bagerhat
 Figure for Bagerhat also available as interactive HTML :download:`here <./html/district_climatology_03_028.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_03_028.svg
+    :file: ./html/district_climatology_03_028.svg
 
 
 Jhenaidah
@@ -280,7 +280,7 @@ Jhenaidah
 Figure for Jhenaidah also available as interactive HTML :download:`here <./html/district_climatology_03_029.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_03_029.svg
+    :file: ./html/district_climatology_03_029.svg
 
 
 Barisal
@@ -293,7 +293,7 @@ Jhalakathi
 Figure for Jhalakathi also available as interactive HTML :download:`here <./html/district_climatology_04_030.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_04_030.svg
+    :file: ./html/district_climatology_04_030.svg
 
 
 Patuakhali
@@ -302,7 +302,7 @@ Patuakhali
 Figure for Patuakhali also available as interactive HTML :download:`here <./html/district_climatology_04_031.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_04_031.svg
+    :file: ./html/district_climatology_04_031.svg
 
 
 Pirojpur
@@ -311,7 +311,7 @@ Pirojpur
 Figure for Pirojpur also available as interactive HTML :download:`here <./html/district_climatology_04_032.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_04_032.svg
+    :file: ./html/district_climatology_04_032.svg
 
 
 Barisal
@@ -320,7 +320,7 @@ Barisal
 Figure for Barisal also available as interactive HTML :download:`here <./html/district_climatology_04_033.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_04_033.svg
+    :file: ./html/district_climatology_04_033.svg
 
 
 Bhola
@@ -329,7 +329,7 @@ Bhola
 Figure for Bhola also available as interactive HTML :download:`here <./html/district_climatology_04_034.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_04_034.svg
+    :file: ./html/district_climatology_04_034.svg
 
 
 Barguna
@@ -338,7 +338,7 @@ Barguna
 Figure for Barguna also available as interactive HTML :download:`here <./html/district_climatology_04_035.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_04_035.svg
+    :file: ./html/district_climatology_04_035.svg
 
 
 Sylhet
@@ -351,7 +351,7 @@ Sylhet
 Figure for Sylhet also available as interactive HTML :download:`here <./html/district_climatology_05_036.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_05_036.svg
+    :file: ./html/district_climatology_05_036.svg
 
 
 Moulvibazar
@@ -360,7 +360,7 @@ Moulvibazar
 Figure for Moulvibazar also available as interactive HTML :download:`here <./html/district_climatology_05_037.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_05_037.svg
+    :file: ./html/district_climatology_05_037.svg
 
 
 Habiganj
@@ -369,7 +369,7 @@ Habiganj
 Figure for Habiganj also available as interactive HTML :download:`here <./html/district_climatology_05_038.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_05_038.svg
+    :file: ./html/district_climatology_05_038.svg
 
 
 Sunamganj
@@ -378,7 +378,7 @@ Sunamganj
 Figure for Sunamganj also available as interactive HTML :download:`here <./html/district_climatology_05_039.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_05_039.svg
+    :file: ./html/district_climatology_05_039.svg
 
 
 Dhaka
@@ -391,7 +391,7 @@ Narsingdi
 Figure for Narsingdi also available as interactive HTML :download:`here <./html/district_climatology_06_040.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_06_040.svg
+    :file: ./html/district_climatology_06_040.svg
 
 
 Gazipur
@@ -400,7 +400,7 @@ Gazipur
 Figure for Gazipur also available as interactive HTML :download:`here <./html/district_climatology_06_041.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_06_041.svg
+    :file: ./html/district_climatology_06_041.svg
 
 
 Shariatpur
@@ -409,7 +409,7 @@ Shariatpur
 Figure for Shariatpur also available as interactive HTML :download:`here <./html/district_climatology_06_042.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_06_042.svg
+    :file: ./html/district_climatology_06_042.svg
 
 
 Narayanganj
@@ -418,7 +418,7 @@ Narayanganj
 Figure for Narayanganj also available as interactive HTML :download:`here <./html/district_climatology_06_043.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_06_043.svg
+    :file: ./html/district_climatology_06_043.svg
 
 
 Tangail
@@ -427,7 +427,7 @@ Tangail
 Figure for Tangail also available as interactive HTML :download:`here <./html/district_climatology_06_044.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_06_044.svg
+    :file: ./html/district_climatology_06_044.svg
 
 
 Kishoreganj
@@ -436,7 +436,7 @@ Kishoreganj
 Figure for Kishoreganj also available as interactive HTML :download:`here <./html/district_climatology_06_045.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_06_045.svg
+    :file: ./html/district_climatology_06_045.svg
 
 
 Manikganj
@@ -445,7 +445,7 @@ Manikganj
 Figure for Manikganj also available as interactive HTML :download:`here <./html/district_climatology_06_046.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_06_046.svg
+    :file: ./html/district_climatology_06_046.svg
 
 
 Dhaka
@@ -454,7 +454,7 @@ Dhaka
 Figure for Dhaka also available as interactive HTML :download:`here <./html/district_climatology_06_047.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_06_047.svg
+    :file: ./html/district_climatology_06_047.svg
 
 
 Munshiganj
@@ -463,7 +463,7 @@ Munshiganj
 Figure for Munshiganj also available as interactive HTML :download:`here <./html/district_climatology_06_048.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_06_048.svg
+    :file: ./html/district_climatology_06_048.svg
 
 
 Rajbari
@@ -472,7 +472,7 @@ Rajbari
 Figure for Rajbari also available as interactive HTML :download:`here <./html/district_climatology_06_049.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_06_049.svg
+    :file: ./html/district_climatology_06_049.svg
 
 
 Madaripur
@@ -481,7 +481,7 @@ Madaripur
 Figure for Madaripur also available as interactive HTML :download:`here <./html/district_climatology_06_050.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_06_050.svg
+    :file: ./html/district_climatology_06_050.svg
 
 
 Gopalganj
@@ -490,7 +490,7 @@ Gopalganj
 Figure for Gopalganj also available as interactive HTML :download:`here <./html/district_climatology_06_051.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_06_051.svg
+    :file: ./html/district_climatology_06_051.svg
 
 
 Faridpur
@@ -499,7 +499,7 @@ Faridpur
 Figure for Faridpur also available as interactive HTML :download:`here <./html/district_climatology_06_052.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_06_052.svg
+    :file: ./html/district_climatology_06_052.svg
 
 
 Rangpur
@@ -512,7 +512,7 @@ Panchagarh
 Figure for Panchagarh also available as interactive HTML :download:`here <./html/district_climatology_07_053.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_07_053.svg
+    :file: ./html/district_climatology_07_053.svg
 
 
 Dinajpur
@@ -521,7 +521,7 @@ Dinajpur
 Figure for Dinajpur also available as interactive HTML :download:`here <./html/district_climatology_07_054.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_07_054.svg
+    :file: ./html/district_climatology_07_054.svg
 
 
 Lalmonirhat
@@ -530,7 +530,7 @@ Lalmonirhat
 Figure for Lalmonirhat also available as interactive HTML :download:`here <./html/district_climatology_07_055.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_07_055.svg
+    :file: ./html/district_climatology_07_055.svg
 
 
 Nilphamari
@@ -539,7 +539,7 @@ Nilphamari
 Figure for Nilphamari also available as interactive HTML :download:`here <./html/district_climatology_07_056.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_07_056.svg
+    :file: ./html/district_climatology_07_056.svg
 
 
 Gaibandha
@@ -548,7 +548,7 @@ Gaibandha
 Figure for Gaibandha also available as interactive HTML :download:`here <./html/district_climatology_07_057.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_07_057.svg
+    :file: ./html/district_climatology_07_057.svg
 
 
 Thakurgaon
@@ -557,7 +557,7 @@ Thakurgaon
 Figure for Thakurgaon also available as interactive HTML :download:`here <./html/district_climatology_07_058.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_07_058.svg
+    :file: ./html/district_climatology_07_058.svg
 
 
 Rangpur
@@ -566,7 +566,7 @@ Rangpur
 Figure for Rangpur also available as interactive HTML :download:`here <./html/district_climatology_07_059.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_07_059.svg
+    :file: ./html/district_climatology_07_059.svg
 
 
 Kurigram
@@ -575,7 +575,7 @@ Kurigram
 Figure for Kurigram also available as interactive HTML :download:`here <./html/district_climatology_07_060.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_07_060.svg
+    :file: ./html/district_climatology_07_060.svg
 
 
 Mymensingh
@@ -588,7 +588,7 @@ Sherpur
 Figure for Sherpur also available as interactive HTML :download:`here <./html/district_climatology_08_061.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_08_061.svg
+    :file: ./html/district_climatology_08_061.svg
 
 
 Mymensingh
@@ -597,7 +597,7 @@ Mymensingh
 Figure for Mymensingh also available as interactive HTML :download:`here <./html/district_climatology_08_062.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_08_062.svg
+    :file: ./html/district_climatology_08_062.svg
 
 
 Jamalpur
@@ -606,7 +606,7 @@ Jamalpur
 Figure for Jamalpur also available as interactive HTML :download:`here <./html/district_climatology_08_063.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_08_063.svg
+    :file: ./html/district_climatology_08_063.svg
 
 
 Netrokona
@@ -615,5 +615,5 @@ Netrokona
 Figure for Netrokona also available as interactive HTML :download:`here <./html/district_climatology_08_064.html>` 
 
 .. raw:: html
-    :file: /home/wit015/Projects/Bangladesh_S2S/bangladesh_s2s_forecast/doc/html/district_climatology_08_064.svg
+    :file: ./html/district_climatology_08_064.svg
 
