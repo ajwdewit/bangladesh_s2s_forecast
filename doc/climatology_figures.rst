@@ -1,12 +1,13 @@
 
+
 Forecast metadata
 =================
 
 Details of this forecast:
 
-- Current forecast starts on: 2023-05-12 00:00:00
-- Forecast generated on: 2023-05-11 00:00:00
-- Model combination: mm_ncep_eccc
+- Current forecast starts on: 2023-05-19 00:00:00
+- Forecast generated on: 2023-05-18 00:00:00
+- Model combination: mm_ecmwf_ncep_eccc
 
 
 
@@ -17,6 +18,8 @@ Chattagram
 Comilla
 -------
 
+For explanation go to :ref:`explanation`
+
 Figure for Comilla also available as interactive HTML :download:`here <./html/district_climatology_01_001.html>` 
 
 .. raw:: html
@@ -25,6 +28,8 @@ Figure for Comilla also available as interactive HTML :download:`here <./html/di
 
 Feni
 ----
+
+For explanation go to :ref:`explanation`
 
 Figure for Feni also available as interactive HTML :download:`here <./html/district_climatology_01_002.html>` 
 
@@ -35,6 +40,8 @@ Figure for Feni also available as interactive HTML :download:`here <./html/distr
 Brahmanbaria
 ------------
 
+For explanation go to :ref:`explanation`
+
 Figure for Brahmanbaria also available as interactive HTML :download:`here <./html/district_climatology_01_003.html>` 
 
 .. raw:: html
@@ -43,6 +50,8 @@ Figure for Brahmanbaria also available as interactive HTML :download:`here <./ht
 
 Rangamati
 ---------
+
+For explanation go to :ref:`explanation`
 
 Figure for Rangamati also available as interactive HTML :download:`here <./html/district_climatology_01_004.html>` 
 
@@ -53,6 +62,8 @@ Figure for Rangamati also available as interactive HTML :download:`here <./html/
 Noakhali
 --------
 
+For explanation go to :ref:`explanation`
+
 Figure for Noakhali also available as interactive HTML :download:`here <./html/district_climatology_01_005.html>` 
 
 .. raw:: html
@@ -61,6 +72,8 @@ Figure for Noakhali also available as interactive HTML :download:`here <./html/d
 
 Chandpur
 --------
+
+For explanation go to :ref:`explanation`
 
 Figure for Chandpur also available as interactive HTML :download:`here <./html/district_climatology_01_006.html>` 
 
@@ -71,6 +84,8 @@ Figure for Chandpur also available as interactive HTML :download:`here <./html/d
 Lakshmipur
 ----------
 
+For explanation go to :ref:`explanation`
+
 Figure for Lakshmipur also available as interactive HTML :download:`here <./html/district_climatology_01_007.html>` 
 
 .. raw:: html
@@ -79,6 +94,8 @@ Figure for Lakshmipur also available as interactive HTML :download:`here <./html
 
 Chattogram
 ----------
+
+For explanation go to :ref:`explanation`
 
 Figure for Chattogram also available as interactive HTML :download:`here <./html/district_climatology_01_008.html>` 
 
@@ -89,6 +106,8 @@ Figure for Chattogram also available as interactive HTML :download:`here <./html
 Coxsbazar
 ---------
 
+For explanation go to :ref:`explanation`
+
 Figure for Coxsbazar also available as interactive HTML :download:`here <./html/district_climatology_01_009.html>` 
 
 .. raw:: html
@@ -98,6 +117,8 @@ Figure for Coxsbazar also available as interactive HTML :download:`here <./html/
 Khagrachhari
 ------------
 
+For explanation go to :ref:`explanation`
+
 Figure for Khagrachhari also available as interactive HTML :download:`here <./html/district_climatology_01_010.html>` 
 
 .. raw:: html
@@ -106,6 +127,8 @@ Figure for Khagrachhari also available as interactive HTML :download:`here <./ht
 
 Bandarban
 ---------
+
+For explanation go to :ref:`explanation`
 
 Figure for Bandarban also available as interactive HTML :download:`here <./html/district_climatology_01_011.html>` 
 
@@ -120,6 +143,8 @@ Rajshahi
 Sirajganj
 ---------
 
+For explanation go to :ref:`explanation`
+
 Figure for Sirajganj also available as interactive HTML :download:`here <./html/district_climatology_02_012.html>` 
 
 .. raw:: html
@@ -128,6 +153,8 @@ Figure for Sirajganj also available as interactive HTML :download:`here <./html/
 
 Pabna
 -----
+
+For explanation go to :ref:`explanation`
 
 Figure for Pabna also available as interactive HTML :download:`here <./html/district_climatology_02_013.html>` 
 
@@ -138,6 +165,8 @@ Figure for Pabna also available as interactive HTML :download:`here <./html/dist
 Bogura
 ------
 
+For explanation go to :ref:`explanation`
+
 Figure for Bogura also available as interactive HTML :download:`here <./html/district_climatology_02_014.html>` 
 
 .. raw:: html
@@ -146,6 +175,8 @@ Figure for Bogura also available as interactive HTML :download:`here <./html/dis
 
 Rajshahi
 --------
+
+For explanation go to :ref:`explanation`
 
 Figure for Rajshahi also available as interactive HTML :download:`here <./html/district_climatology_02_015.html>` 
 
@@ -156,6 +187,8 @@ Figure for Rajshahi also available as interactive HTML :download:`here <./html/d
 Natore
 ------
 
+For explanation go to :ref:`explanation`
+
 Figure for Natore also available as interactive HTML :download:`here <./html/district_climatology_02_016.html>` 
 
 .. raw:: html
@@ -164,6 +197,8 @@ Figure for Natore also available as interactive HTML :download:`here <./html/dis
 
 Joypurhat
 ---------
+
+For explanation go to :ref:`explanation`
 
 Figure for Joypurhat also available as interactive HTML :download:`here <./html/district_climatology_02_017.html>` 
 
@@ -174,6 +209,8 @@ Figure for Joypurhat also available as interactive HTML :download:`here <./html/
 Chapainawabganj
 ---------------
 
+For explanation go to :ref:`explanation`
+
 Figure for Chapainawabganj also available as interactive HTML :download:`here <./html/district_climatology_02_018.html>` 
 
 .. raw:: html
@@ -182,6 +219,8 @@ Figure for Chapainawabganj also available as interactive HTML :download:`here <.
 
 Naogaon
 -------
+
+For explanation go to :ref:`explanation`
 
 Figure for Naogaon also available as interactive HTML :download:`here <./html/district_climatology_02_019.html>` 
 
@@ -196,6 +235,8 @@ Khulna
 Jashore
 -------
 
+For explanation go to :ref:`explanation`
+
 Figure for Jashore also available as interactive HTML :download:`here <./html/district_climatology_03_020.html>` 
 
 .. raw:: html
@@ -204,6 +245,8 @@ Figure for Jashore also available as interactive HTML :download:`here <./html/di
 
 Satkhira
 --------
+
+For explanation go to :ref:`explanation`
 
 Figure for Satkhira also available as interactive HTML :download:`here <./html/district_climatology_03_021.html>` 
 
@@ -214,6 +257,8 @@ Figure for Satkhira also available as interactive HTML :download:`here <./html/d
 Meherpur
 --------
 
+For explanation go to :ref:`explanation`
+
 Figure for Meherpur also available as interactive HTML :download:`here <./html/district_climatology_03_022.html>` 
 
 .. raw:: html
@@ -222,6 +267,8 @@ Figure for Meherpur also available as interactive HTML :download:`here <./html/d
 
 Narail
 ------
+
+For explanation go to :ref:`explanation`
 
 Figure for Narail also available as interactive HTML :download:`here <./html/district_climatology_03_023.html>` 
 
@@ -232,6 +279,8 @@ Figure for Narail also available as interactive HTML :download:`here <./html/dis
 Chuadanga
 ---------
 
+For explanation go to :ref:`explanation`
+
 Figure for Chuadanga also available as interactive HTML :download:`here <./html/district_climatology_03_024.html>` 
 
 .. raw:: html
@@ -240,6 +289,8 @@ Figure for Chuadanga also available as interactive HTML :download:`here <./html/
 
 Kushtia
 -------
+
+For explanation go to :ref:`explanation`
 
 Figure for Kushtia also available as interactive HTML :download:`here <./html/district_climatology_03_025.html>` 
 
@@ -250,6 +301,8 @@ Figure for Kushtia also available as interactive HTML :download:`here <./html/di
 Magura
 ------
 
+For explanation go to :ref:`explanation`
+
 Figure for Magura also available as interactive HTML :download:`here <./html/district_climatology_03_026.html>` 
 
 .. raw:: html
@@ -258,6 +311,8 @@ Figure for Magura also available as interactive HTML :download:`here <./html/dis
 
 Khulna
 ------
+
+For explanation go to :ref:`explanation`
 
 Figure for Khulna also available as interactive HTML :download:`here <./html/district_climatology_03_027.html>` 
 
@@ -268,6 +323,8 @@ Figure for Khulna also available as interactive HTML :download:`here <./html/dis
 Bagerhat
 --------
 
+For explanation go to :ref:`explanation`
+
 Figure for Bagerhat also available as interactive HTML :download:`here <./html/district_climatology_03_028.html>` 
 
 .. raw:: html
@@ -276,6 +333,8 @@ Figure for Bagerhat also available as interactive HTML :download:`here <./html/d
 
 Jhenaidah
 ---------
+
+For explanation go to :ref:`explanation`
 
 Figure for Jhenaidah also available as interactive HTML :download:`here <./html/district_climatology_03_029.html>` 
 
@@ -290,6 +349,8 @@ Barisal
 Jhalakathi
 ----------
 
+For explanation go to :ref:`explanation`
+
 Figure for Jhalakathi also available as interactive HTML :download:`here <./html/district_climatology_04_030.html>` 
 
 .. raw:: html
@@ -298,6 +359,8 @@ Figure for Jhalakathi also available as interactive HTML :download:`here <./html
 
 Patuakhali
 ----------
+
+For explanation go to :ref:`explanation`
 
 Figure for Patuakhali also available as interactive HTML :download:`here <./html/district_climatology_04_031.html>` 
 
@@ -308,6 +371,8 @@ Figure for Patuakhali also available as interactive HTML :download:`here <./html
 Pirojpur
 --------
 
+For explanation go to :ref:`explanation`
+
 Figure for Pirojpur also available as interactive HTML :download:`here <./html/district_climatology_04_032.html>` 
 
 .. raw:: html
@@ -316,6 +381,8 @@ Figure for Pirojpur also available as interactive HTML :download:`here <./html/d
 
 Barisal
 -------
+
+For explanation go to :ref:`explanation`
 
 Figure for Barisal also available as interactive HTML :download:`here <./html/district_climatology_04_033.html>` 
 
@@ -326,6 +393,8 @@ Figure for Barisal also available as interactive HTML :download:`here <./html/di
 Bhola
 -----
 
+For explanation go to :ref:`explanation`
+
 Figure for Bhola also available as interactive HTML :download:`here <./html/district_climatology_04_034.html>` 
 
 .. raw:: html
@@ -334,6 +403,8 @@ Figure for Bhola also available as interactive HTML :download:`here <./html/dist
 
 Barguna
 -------
+
+For explanation go to :ref:`explanation`
 
 Figure for Barguna also available as interactive HTML :download:`here <./html/district_climatology_04_035.html>` 
 
@@ -348,6 +419,8 @@ Sylhet
 Sylhet
 ------
 
+For explanation go to :ref:`explanation`
+
 Figure for Sylhet also available as interactive HTML :download:`here <./html/district_climatology_05_036.html>` 
 
 .. raw:: html
@@ -356,6 +429,8 @@ Figure for Sylhet also available as interactive HTML :download:`here <./html/dis
 
 Moulvibazar
 -----------
+
+For explanation go to :ref:`explanation`
 
 Figure for Moulvibazar also available as interactive HTML :download:`here <./html/district_climatology_05_037.html>` 
 
@@ -366,6 +441,8 @@ Figure for Moulvibazar also available as interactive HTML :download:`here <./htm
 Habiganj
 --------
 
+For explanation go to :ref:`explanation`
+
 Figure for Habiganj also available as interactive HTML :download:`here <./html/district_climatology_05_038.html>` 
 
 .. raw:: html
@@ -374,6 +451,8 @@ Figure for Habiganj also available as interactive HTML :download:`here <./html/d
 
 Sunamganj
 ---------
+
+For explanation go to :ref:`explanation`
 
 Figure for Sunamganj also available as interactive HTML :download:`here <./html/district_climatology_05_039.html>` 
 
@@ -388,6 +467,8 @@ Dhaka
 Narsingdi
 ---------
 
+For explanation go to :ref:`explanation`
+
 Figure for Narsingdi also available as interactive HTML :download:`here <./html/district_climatology_06_040.html>` 
 
 .. raw:: html
@@ -396,6 +477,8 @@ Figure for Narsingdi also available as interactive HTML :download:`here <./html/
 
 Gazipur
 -------
+
+For explanation go to :ref:`explanation`
 
 Figure for Gazipur also available as interactive HTML :download:`here <./html/district_climatology_06_041.html>` 
 
@@ -406,6 +489,8 @@ Figure for Gazipur also available as interactive HTML :download:`here <./html/di
 Shariatpur
 ----------
 
+For explanation go to :ref:`explanation`
+
 Figure for Shariatpur also available as interactive HTML :download:`here <./html/district_climatology_06_042.html>` 
 
 .. raw:: html
@@ -414,6 +499,8 @@ Figure for Shariatpur also available as interactive HTML :download:`here <./html
 
 Narayanganj
 -----------
+
+For explanation go to :ref:`explanation`
 
 Figure for Narayanganj also available as interactive HTML :download:`here <./html/district_climatology_06_043.html>` 
 
@@ -424,6 +511,8 @@ Figure for Narayanganj also available as interactive HTML :download:`here <./htm
 Tangail
 -------
 
+For explanation go to :ref:`explanation`
+
 Figure for Tangail also available as interactive HTML :download:`here <./html/district_climatology_06_044.html>` 
 
 .. raw:: html
@@ -432,6 +521,8 @@ Figure for Tangail also available as interactive HTML :download:`here <./html/di
 
 Kishoreganj
 -----------
+
+For explanation go to :ref:`explanation`
 
 Figure for Kishoreganj also available as interactive HTML :download:`here <./html/district_climatology_06_045.html>` 
 
@@ -442,6 +533,8 @@ Figure for Kishoreganj also available as interactive HTML :download:`here <./htm
 Manikganj
 ---------
 
+For explanation go to :ref:`explanation`
+
 Figure for Manikganj also available as interactive HTML :download:`here <./html/district_climatology_06_046.html>` 
 
 .. raw:: html
@@ -450,6 +543,8 @@ Figure for Manikganj also available as interactive HTML :download:`here <./html/
 
 Dhaka
 -----
+
+For explanation go to :ref:`explanation`
 
 Figure for Dhaka also available as interactive HTML :download:`here <./html/district_climatology_06_047.html>` 
 
@@ -460,6 +555,8 @@ Figure for Dhaka also available as interactive HTML :download:`here <./html/dist
 Munshiganj
 ----------
 
+For explanation go to :ref:`explanation`
+
 Figure for Munshiganj also available as interactive HTML :download:`here <./html/district_climatology_06_048.html>` 
 
 .. raw:: html
@@ -468,6 +565,8 @@ Figure for Munshiganj also available as interactive HTML :download:`here <./html
 
 Rajbari
 -------
+
+For explanation go to :ref:`explanation`
 
 Figure for Rajbari also available as interactive HTML :download:`here <./html/district_climatology_06_049.html>` 
 
@@ -478,6 +577,8 @@ Figure for Rajbari also available as interactive HTML :download:`here <./html/di
 Madaripur
 ---------
 
+For explanation go to :ref:`explanation`
+
 Figure for Madaripur also available as interactive HTML :download:`here <./html/district_climatology_06_050.html>` 
 
 .. raw:: html
@@ -487,6 +588,8 @@ Figure for Madaripur also available as interactive HTML :download:`here <./html/
 Gopalganj
 ---------
 
+For explanation go to :ref:`explanation`
+
 Figure for Gopalganj also available as interactive HTML :download:`here <./html/district_climatology_06_051.html>` 
 
 .. raw:: html
@@ -495,6 +598,8 @@ Figure for Gopalganj also available as interactive HTML :download:`here <./html/
 
 Faridpur
 --------
+
+For explanation go to :ref:`explanation`
 
 Figure for Faridpur also available as interactive HTML :download:`here <./html/district_climatology_06_052.html>` 
 
@@ -509,6 +614,8 @@ Rangpur
 Panchagarh
 ----------
 
+For explanation go to :ref:`explanation`
+
 Figure for Panchagarh also available as interactive HTML :download:`here <./html/district_climatology_07_053.html>` 
 
 .. raw:: html
@@ -517,6 +624,8 @@ Figure for Panchagarh also available as interactive HTML :download:`here <./html
 
 Dinajpur
 --------
+
+For explanation go to :ref:`explanation`
 
 Figure for Dinajpur also available as interactive HTML :download:`here <./html/district_climatology_07_054.html>` 
 
@@ -527,6 +636,8 @@ Figure for Dinajpur also available as interactive HTML :download:`here <./html/d
 Lalmonirhat
 -----------
 
+For explanation go to :ref:`explanation`
+
 Figure for Lalmonirhat also available as interactive HTML :download:`here <./html/district_climatology_07_055.html>` 
 
 .. raw:: html
@@ -535,6 +646,8 @@ Figure for Lalmonirhat also available as interactive HTML :download:`here <./htm
 
 Nilphamari
 ----------
+
+For explanation go to :ref:`explanation`
 
 Figure for Nilphamari also available as interactive HTML :download:`here <./html/district_climatology_07_056.html>` 
 
@@ -545,6 +658,8 @@ Figure for Nilphamari also available as interactive HTML :download:`here <./html
 Gaibandha
 ---------
 
+For explanation go to :ref:`explanation`
+
 Figure for Gaibandha also available as interactive HTML :download:`here <./html/district_climatology_07_057.html>` 
 
 .. raw:: html
@@ -553,6 +668,8 @@ Figure for Gaibandha also available as interactive HTML :download:`here <./html/
 
 Thakurgaon
 ----------
+
+For explanation go to :ref:`explanation`
 
 Figure for Thakurgaon also available as interactive HTML :download:`here <./html/district_climatology_07_058.html>` 
 
@@ -563,6 +680,8 @@ Figure for Thakurgaon also available as interactive HTML :download:`here <./html
 Rangpur
 -------
 
+For explanation go to :ref:`explanation`
+
 Figure for Rangpur also available as interactive HTML :download:`here <./html/district_climatology_07_059.html>` 
 
 .. raw:: html
@@ -571,6 +690,8 @@ Figure for Rangpur also available as interactive HTML :download:`here <./html/di
 
 Kurigram
 --------
+
+For explanation go to :ref:`explanation`
 
 Figure for Kurigram also available as interactive HTML :download:`here <./html/district_climatology_07_060.html>` 
 
@@ -585,6 +706,8 @@ Mymensingh
 Sherpur
 -------
 
+For explanation go to :ref:`explanation`
+
 Figure for Sherpur also available as interactive HTML :download:`here <./html/district_climatology_08_061.html>` 
 
 .. raw:: html
@@ -593,6 +716,8 @@ Figure for Sherpur also available as interactive HTML :download:`here <./html/di
 
 Mymensingh
 ----------
+
+For explanation go to :ref:`explanation`
 
 Figure for Mymensingh also available as interactive HTML :download:`here <./html/district_climatology_08_062.html>` 
 
@@ -603,6 +728,8 @@ Figure for Mymensingh also available as interactive HTML :download:`here <./html
 Jamalpur
 --------
 
+For explanation go to :ref:`explanation`
+
 Figure for Jamalpur also available as interactive HTML :download:`here <./html/district_climatology_08_063.html>` 
 
 .. raw:: html
@@ -611,6 +738,8 @@ Figure for Jamalpur also available as interactive HTML :download:`here <./html/d
 
 Netrokona
 ---------
+
+For explanation go to :ref:`explanation`
 
 Figure for Netrokona also available as interactive HTML :download:`here <./html/district_climatology_08_064.html>` 
 
