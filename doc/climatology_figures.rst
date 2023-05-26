@@ -1,12 +1,14 @@
 
 
+.. _Forecast metadata:
+
 Forecast metadata
 =================
 
 Details of this forecast:
 
-- Current forecast starts on: 2023-05-19 00:00:00
-- Forecast generated on: 2023-05-18 00:00:00
+- Current forecast starts on: 2023-05-26 00:00:00
+- Forecast generated on: 2023-05-25 00:00:00
 - Model combination: mm_ecmwf_ncep_eccc
 
 
