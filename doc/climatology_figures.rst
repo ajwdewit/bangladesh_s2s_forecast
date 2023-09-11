@@ -7,8 +7,8 @@ Forecast metadata
 
 Details of this forecast:
 
-- Current forecast starts on: 2023-08-25 00:00:00
-- Forecast generated on: 2023-08-24 00:00:00
+- Current forecast starts on: 2023-09-08 00:00:00
+- Forecast generated on: 2023-09-07 00:00:00
 - Model combination: mm_ecmwf_ncep
 
 
